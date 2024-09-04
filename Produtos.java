@@ -1,0 +1,43 @@
+package Aula_Enum;
+
+public enum Produtos {
+	
+	Arroz,
+	Azeite,
+	Bolachas,
+	biscoitos,
+	Café,
+	Chá,
+	Enlatados,
+	Extrato_tomate,
+	Farinhas,
+	farofas,
+	Feijão,
+	Leite,
+	Macarrão,
+	Maionese,
+	Óleo,
+	Tempero_pronto,
+	Frutas,
+	Legumes,
+	Polpas,
+	Verduras,
+	Achocolatados,
+	Água,
+	Cervejas,
+	Energéticos,
+	Refrigerantes,
+	Sucos,
+	Vinhos,
+	Vitaminas,
+	Padaria,
+	Biscoitos,
+	Bisnaguinha,
+	Broinha_de_milho,
+	Pães_de_queijo,
+	Pão_de_cachorro_quente,
+	Pão_de_forma,
+	Pão_de_hambúrguer,
+	
+
+}
